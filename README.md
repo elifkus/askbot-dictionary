@@ -12,4 +12,4 @@ If you're going to use custom translation files
 
 * compile files on server in the askbot folder
 
-  ```django-admin.py compilemessages``` 
+  ```python manage.py compilemessages``` 
