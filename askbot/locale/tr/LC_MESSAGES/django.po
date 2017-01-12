@@ -17,6 +17,14 @@ msgstr ""
 "Language: tr\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
+#: conf/forum_data_rules.py:175
+msgid "Minimum length of question body (number of characters)"
+msgstr "Sorunun en kısa uzunluğu (karakter sayısı)"
+
+#: conf/forum_data_rules.py:186
+msgid "Minimum length of answer body (number of characters)"
+msgstr "Cevabın en kısa uzunluğu (karakter sayısı)"
+
 #: conf/words.py:519 conf/words.py:520
 msgid "Please ask your question here"
 msgstr "Terimi girin!"
