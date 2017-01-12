@@ -19,4 +19,4 @@ msgstr ""
 
 #: conf/words.py:519 conf/words.py:520
 msgid "Please ask your question here"
-msgstr "Kelimenizi girin!"
+msgstr "Terimi girin!"
