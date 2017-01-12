@@ -23,4 +23,4 @@ msgstr "Terimi girin!"
 
 #: templates/widgets/scope_nav.html:20
 msgid "FOLLOWED"
-msgstr "TAKİP EDİLEN TERİMLER"
+msgstr "TAKİP EDİLENLER"
