@@ -29,6 +29,10 @@ msgstr "Cevabın en kısa uzunluğu (karakter sayısı)"
 msgid "Please ask your question here"
 msgstr "Terimi girin!"
 
+#: templates/widgets/contributors.html:3
+msgid "Contributors"
+msgstr "Katkıda bulunanlar"
+
 #: templates/widgets/scope_nav.html:20
 msgid "FOLLOWED"
 msgstr "TAKİP EDİLENLER"
