@@ -40,3 +40,7 @@ msgstr "TAKİP EDİLENLER"
 #: templates/widgets/user_navigation.html:11
 msgid "sign out"
 msgstr "çıkış"
+
+#: templates/widgets/user_navigation.html:18
+msgid "widgets"
+msgstr "gereçler"
