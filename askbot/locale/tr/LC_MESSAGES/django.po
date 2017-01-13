@@ -36,3 +36,7 @@ msgstr "Katkıda bulunanlar"
 #: templates/widgets/scope_nav.html:20
 msgid "FOLLOWED"
 msgstr "TAKİP EDİLENLER"
+
+#: templates/widgets/user_navigation.html:11
+msgid "sign out"
+msgstr "çıkış"
